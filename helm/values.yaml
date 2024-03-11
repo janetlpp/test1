@@ -6,3 +6,5 @@ serviceAccount:
   create: false
 autoscaling:
   enabled: false
+ingress:
+  enabled: true
